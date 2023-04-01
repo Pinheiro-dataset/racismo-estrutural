@@ -31,7 +31,7 @@ Foi utilizado **dados oficiais** dos sites do [IBGE](https://www.ibge.gov.br/est
 
 ## 💻 DEMONSTRAÇÕES
 ### POWER BI
-![](https://i.postimg.cc/tTrzrFjf/racismo22.png)
+![](https://i.postimg.cc/J44ftXMC/racismo1.png)
 ![](https://i.postimg.cc/NFfDpZVG/racismo23.png)
 ### PYTHON
 ![](https://i.postimg.cc/fbsQcSDm/racismo6.png)
@@ -39,7 +39,7 @@ Foi utilizado **dados oficiais** dos sites do [IBGE](https://www.ibge.gov.br/est
 ![](https://i.postimg.cc/kXxmBydq/racismo8.png)
 ![](https://i.postimg.cc/1RwTH57K/racismo9.png)
 ![](https://i.postimg.cc/NjhT0W4y/racismo10.png)
-![imagem](https://i.postimg.cc/jjBrV4Kr/racismo11.png)
+![](https://i.postimg.cc/jjBrV4Kr/racismo11.png)
 ![](https://i.postimg.cc/5235jf2P/racismo16.png)
 ![](https://i.postimg.cc/htwYh4YL/racismo17.png)
 ![](https://i.postimg.cc/dt92szDF/racismo18.png)
