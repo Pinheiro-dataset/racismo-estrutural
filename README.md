@@ -24,10 +24,10 @@ Foi utilizado **dados oficiais** dos sites do [IBGE](https://www.ibge.gov.br/est
 - Github/Gitbash
   
 ## 🌐 LINKS
-- [Publicação]() (Portfólio)
-- [Racismo estrutural no Brasil]() (Jupyter Notebook)
+- [Publicação](https://pinheiro-dataset.github.io/portfolio/racismo.html) (Portfólio)
+- [Racismo estrutural no Brasil](https://nbviewer.org/github/Pinheiro-dataset/racismo-estrutural/blob/main/Analise_racismo_estrutural.ipynb) (Jupyter Notebook)
 - [Dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiNThkN2Q4ZjgtNGFhYS00YWFlLThkMDMtZmE5ZjMzZGM1MzBjIiwidCI6IjBkZjE5YTliLTgyMDItNDA3ZC04ZDQ3LWFiMGZkOTJiYmJmMiJ9) (Portfólio)
-- [Planilhas]() (Utilizadas no dataset)
+- [Planilhas](https://github.com/Pinheiro-dataset/racismo-estrutural) (Utilizadas no dataset)
 
 ## 💻 DEMONSTRAÇÕES
 ### POWER BI
