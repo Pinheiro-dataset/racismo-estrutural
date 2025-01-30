@@ -31,7 +31,7 @@ Foi utilizado **dados oficiais** dos sites do [IBGE](https://www.ibge.gov.br/est
 
 ## 💻 DEMONSTRAÇÕES
 
-[](https://i.postimg.cc/NFfDpZVG/racismo23.png)
+![](https://i.postimg.cc/NFfDpZVG/racismo23.png)
 
 ## ✅  CONSIDERAÇÕES
 
