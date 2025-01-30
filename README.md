@@ -30,25 +30,10 @@ Foi utilizado **dados oficiais** dos sites do [IBGE](https://www.ibge.gov.br/est
 - [Planilhas](https://github.com/Pinheiro-dataset/racismo-estrutural) (Utilizadas no dataset)
 
 ## 💻 DEMONSTRAÇÕES
-### POWER BI
-![](https://i.postimg.cc/J44ftXMC/racismo1.png)
-![](https://i.postimg.cc/NFfDpZVG/racismo23.png)
-### PYTHON
-![](https://i.postimg.cc/fbsQcSDm/racismo6.png)
-![](https://i.postimg.cc/0ygTvK6F/racismo7.png)
-![](https://i.postimg.cc/kXxmBydq/racismo8.png)
-![](https://i.postimg.cc/1RwTH57K/racismo9.png)
-![](https://i.postimg.cc/NjhT0W4y/racismo10.png)
-![](https://i.postimg.cc/jjBrV4Kr/racismo11.png)
-![](https://i.postimg.cc/5235jf2P/racismo16.png)
-![](https://i.postimg.cc/htwYh4YL/racismo17.png)
-![](https://i.postimg.cc/dt92szDF/racismo18.png)
-![](https://i.postimg.cc/Y0Rv7BRy/racismo19.png)
 
+[](https://i.postimg.cc/NFfDpZVG/racismo23.png)
 
-
-
-## ✅  CONSIDERAÇÕES FINAIS
+## ✅  CONSIDERAÇÕES
 
 Os dados analisados evidenciaram que a população **preta/parda** no Brasil apresentaram, em sua maioria, **indicadores significativamente desfavoráveis** em relação à população branca. Essas disparidades podem ser consideradas um reflexo do **racismo estrutural que permeia a sociedade brasileira**, que, mesmo com as leis que garantem a igualdade entre os povos, ainda precisa de muitas mudanças sociais para combater tais desigualdades.
 
